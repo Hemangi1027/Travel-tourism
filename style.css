@@ -1,0 +1,29 @@
+<!-- style.css -->
+header {
+    background: #222;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    margin: 20px;
+    text-align: center;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
